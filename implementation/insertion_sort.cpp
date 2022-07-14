@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void insertion_sort(int arr[], int length) {
     int num_to_check_idx;

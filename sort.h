@@ -21,5 +21,5 @@ void counting_sort(int arr[], int length);
 
 void radix_sort(int arr[], int length);
 
-
+void bucket_sort(int arr[], int length);
 #endif /* SORT_H_ */

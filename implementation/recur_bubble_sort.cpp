@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void recur_bubble_sort(int arr[], int length) {
     if (length == 1) {

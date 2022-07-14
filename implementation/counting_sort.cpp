@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void counting_sort(int arr[], int length) {
     int max = arr[0];

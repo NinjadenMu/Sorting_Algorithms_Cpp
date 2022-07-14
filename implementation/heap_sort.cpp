@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void heapify(int arr[], int root, int end) {
     int l = root * 2 + 1;

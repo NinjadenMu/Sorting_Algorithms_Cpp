@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void recur_insertion_sort(int arr[], int length, int sorted_marker) {
     if (sorted_marker == length - 1 | length == 1 | length == 0) {

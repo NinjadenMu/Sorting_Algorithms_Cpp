@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void merge(int arr[], int l, int m, int r) {
     int l_compare = l;

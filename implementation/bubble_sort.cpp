@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "../sort.h"
 
 void bubble_sort(int arr[], int length) {
     int swaps;
